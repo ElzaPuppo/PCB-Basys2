@@ -1,0 +1,18 @@
+V3 12
+FL C:/.Xilinx/detector137/MaquinaEstados.vhd 2018/12/03.19:28:39 P.20131013
+EN work/MaquinaEstados 1543873375 FL C:/.Xilinx/detector137/MaquinaEstados.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/MaquinaEstados/arq 1543873376 \
+      FL C:/.Xilinx/detector137/MaquinaEstados.vhd EN work/MaquinaEstados 1543873375
+FL C:/.Xilinx/detector137/meu_pacote.vhd 2018/12/03.19:30:29 P.20131013
+PH work/meu_pacote 1543873374 FL C:/.Xilinx/detector137/meu_pacote.vhd \
+      PB ieee/std_logic_1164 1381692176 CD MaquinaEstados
+FL C:/.Xilinx/detector137/top.vhd 2018/12/03.19:23:47 P.20131013
+EN work/top 1543873377 FL C:/.Xilinx/detector137/top.vhd PB ieee/std_logic_1164 1381692176 \
+      PH work/meu_pacote 1543873374
+AR work/top/arq 1543873378 \
+      FL C:/.Xilinx/detector137/top.vhd EN work/top 1543873377 \
+      AR work/MaquinaEstados/arq 1543873376
+FL C:/Users/Iury/Desktop/logica1107/logica1107/detector137/MaquinaEstados.vhd 2018/12/03.19:28:39 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/detector137/meu_pacote.vhd 2018/12/03.19:30:29 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/detector137/top.vhd 2018/12/03.19:23:47 P.20131013

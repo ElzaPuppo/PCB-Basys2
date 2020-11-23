@@ -1,0 +1,6 @@
+vhdl work "subtratorN.vhd"
+vhdl work "meu_pacote.vhd"
+vhdl work "Leds.vhd"
+vhdl work "conversorHexa.vhd"
+vhdl work "top.vhd"
+vhdl work "tb_subtrator.vhd"

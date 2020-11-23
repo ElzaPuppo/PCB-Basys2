@@ -1,0 +1,6 @@
+vhdl work "C:\.Xilinx\pacotes9\subtrator.vhd"
+vhdl work "C:\.Xilinx\pacotes9\somador.vhd"
+vhdl work "C:\.Xilinx\pacotes9\multiplexador.vhd"
+vhdl work "C:\.Xilinx\pacotes9\meu_pacote.vhd"
+vhdl work "C:\.Xilinx\pacotes9\decodbcd.vhd"
+vhdl work "C:\.Xilinx\pacotes9\top.vhd"

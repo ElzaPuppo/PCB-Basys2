@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/El/Desktop/logicareconfiguravel/exercicio4/tbsubtrator_isim_beh.exe" -prj "C:/Users/El/Desktop/logicareconfiguravel/exercicio4/tbsubtrator_beh.prj" "work.tbsubtrator" 

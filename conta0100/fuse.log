@@ -1,0 +1,38 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/tb_ccto_isim_beh.exe -prj C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/tb_ccto_beh.prj work.tb_ccto 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/meu_pacote.vhd" into library work
+Parsing VHDL file "C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/funcaoSepara.vhd" into library work
+Parsing VHDL file "C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/seletorNum.vhd" into library work
+Parsing VHDL file "C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/seletorDisplay.vhd" into library work
+Parsing VHDL file "C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/mandaDisp.vhd" into library work
+Parsing VHDL file "C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/conversor7seg.vhd" into library work
+Parsing VHDL file "C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/clock.vhd" into library work
+Parsing VHDL file "C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/mostra1234.vhd" into library work
+Parsing VHDL file "C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/tb_mostra1234.vhd" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1242 - "N:/P.20131013/rtf/vhdl/src/ieee/numeric_std.vhd" Line 3240: Warning: "NUMERIC_STD.TO_UNSIGNED: vector truncated"
+Completed static elaboration
+Fuse Memory Usage: 149344 KB
+Fuse CPU Usage: 1593 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package meu_pacote
+Compiling architecture arq of entity clock [clock_default]
+Compiling architecture arq of entity seletorDisplay [seletordisplay_default]
+Compiling architecture arq of entity seletorNum [\seletorNum(1234)\]
+Compiling architecture arq of entity conversor7seg [conversor7seg_default]
+Compiling architecture arq of entity mandaDisp [mandadisp_default]
+Compiling architecture arq of entity top [top_default]
+Compiling architecture tb_arq of entity tb_ccto
+Time Resolution for simulation is 1ps.
+Waiting for 5 sub-compilation(s) to finish...
+Compiled 19 VHDL Units
+Built simulation executable C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/tb_ccto_isim_beh.exe
+Fuse Memory Usage: 168748 KB
+Fuse CPU Usage: 2733 ms

@@ -1,0 +1,3 @@
+vhdl work "meu_pacote.vhd"
+vhdl work "../bingray4bits/bingray4.vhd"
+vhdl work "top.vhd"

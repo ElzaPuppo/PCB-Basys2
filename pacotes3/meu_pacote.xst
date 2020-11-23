@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/thiag/Downloads/logica 10 15/pacotes3/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/thiag/Downloads/logica 10 15/pacotes3/xst"
+elaborate
+-ifn meu_pacote.prj
+-ifmt mixed

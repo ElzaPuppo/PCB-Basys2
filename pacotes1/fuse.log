@@ -1,0 +1,24 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/.Xilinx/pacotes1/tb_pacotes1_isim_beh.exe -prj C:/.Xilinx/pacotes1/tb_pacotes1_beh.prj work.tb_pacotes1 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/.Xilinx/pacotes1/meu_pacote.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/pacotes1/../bingray4bits/bingray4.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/pacotes1/top.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/pacotes1/tb_pacotes1.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package meu_pacote
+Compiling architecture arq of entity bingray4 [bingray4_default]
+Compiling architecture arq of entity top [top_default]
+Compiling architecture arq of entity tb_pacotes1
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 9 VHDL Units
+Built simulation executable C:/.Xilinx/pacotes1/tb_pacotes1_isim_beh.exe
+Fuse Memory Usage: 35124 KB
+Fuse CPU Usage: 546 ms

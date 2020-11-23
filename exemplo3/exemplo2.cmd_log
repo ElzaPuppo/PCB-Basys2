@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/logicareconfiguravel/exemplo3/exemplo2.xst" -ofn "C:/logicareconfiguravel/exemplo3/exemplo2.syr" 

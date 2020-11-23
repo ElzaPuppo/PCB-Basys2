@@ -1,0 +1,6 @@
+vhdl isim_temp "subtratorN.vhd"
+vhdl isim_temp "meu_pacote.vhd"
+vhdl isim_temp "Leds.vhd"
+vhdl isim_temp "conversorHexa.vhd"
+vhdl isim_temp "top.vhd"
+vhdl isim_temp "tb_subtrator.vhd"

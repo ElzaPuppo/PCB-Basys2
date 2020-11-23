@@ -1,0 +1,8 @@
+V3 3
+FL C:/Users/El/Desktop/logicareconfiguravel/multiplicador/multiplicador.vhd 2018/09/12.19:58:54 P.20131013
+EN work/mult 1536793235 \
+      FL C:/Users/El/Desktop/logicareconfiguravel/multiplicador/multiplicador.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/mult/arq 1536793236 \
+      FL C:/Users/El/Desktop/logicareconfiguravel/multiplicador/multiplicador.vhd \
+      EN work/mult 1536793235

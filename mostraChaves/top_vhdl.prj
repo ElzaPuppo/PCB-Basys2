@@ -1,0 +1,7 @@
+vhdl work "C:\.Xilinx\mostraChaves\meu_pacote.vhd"
+vhdl work "C:\.Xilinx\mostraChaves\seletorNum.vhd"
+vhdl work "C:\.Xilinx\mostraChaves\seletorDisplay.vhd"
+vhdl work "C:\.Xilinx\mostraChaves\mandaDisp.vhd"
+vhdl work "C:\.Xilinx\mostraChaves\conversor7seg.vhd"
+vhdl work "C:\.Xilinx\mostraChaves\clock.vhd"
+vhdl work "C:\.Xilinx\mostraChaves\mostra1234.vhd"

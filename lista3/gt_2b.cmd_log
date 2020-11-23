@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/.Xilinx/lista3/gt_2b.xst" -ofn "C:/.Xilinx/lista3/gt_2b.syr" 

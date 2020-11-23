@@ -1,0 +1,2 @@
+vhdl isim_temp "bingray4.vhd"
+vhdl isim_temp "tb_bingray4.vhd"

@@ -1,0 +1,20 @@
+V3 9
+FL "C:/Users/thiag/Downloads/logica 10 15/bingray4bits/bingray4.vhd" 2018/10/14.15:00:38 P.20131013
+EN work/bingray4 1539541324 \
+      FL "C:/Users/thiag/Downloads/logica 10 15/bingray4bits/bingray4.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/bingray4/arq 1539541325 \
+      FL "C:/Users/thiag/Downloads/logica 10 15/bingray4bits/bingray4.vhd" \
+      EN work/bingray4 1539541324
+FL "C:/Users/thiag/Downloads/logica 10 15/pacotes1/meu_pacote.vhd" 2018/10/14.15:14:43 P.20131013
+PH work/meu_pacote 1539541323 \
+      FL "C:/Users/thiag/Downloads/logica 10 15/pacotes1/meu_pacote.vhd" \
+      PB ieee/std_logic_1164 1381692176 CD bingray4
+FL "C:/Users/thiag/Downloads/logica 10 15/pacotes1/top.vhd" 2018/10/14.15:21:59 P.20131013
+EN work/top 1539541326 \
+      FL "C:/Users/thiag/Downloads/logica 10 15/pacotes1/top.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PH work/meu_pacote 1539541323
+AR work/top/arq 1539541327 \
+      FL "C:/Users/thiag/Downloads/logica 10 15/pacotes1/top.vhd" EN work/top 1539541326 \
+      AR work/bingray4/arq 1539541325

@@ -1,0 +1,8 @@
+vhdl work "C:\.Xilinx\mostra1234\meu_pacote.vhd"
+vhdl work "C:\.Xilinx\mostra1234\funcaoSepara.vhd"
+vhdl work "C:\.Xilinx\mostra1234\seletorNum.vhd"
+vhdl work "C:\.Xilinx\mostra1234\seletorDisplay.vhd"
+vhdl work "C:\.Xilinx\mostra1234\mandaDisp.vhd"
+vhdl work "C:\.Xilinx\mostra1234\conversor7seg.vhd"
+vhdl work "C:\.Xilinx\mostra1234\clock.vhd"
+vhdl work "C:\.Xilinx\mostra1234\mostra1234.vhd"

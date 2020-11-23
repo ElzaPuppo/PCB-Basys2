@@ -1,0 +1,15 @@
+NET hex(3) LOC = G3;
+NET hex(2) LOC = B4;
+NET hex(1) LOC = K3;
+NET hex(0) LOC = L3;
+NET seg7(6) LOC = L14;
+NET seg7(5) LOC = H12;
+NET seg7(4) LOC = N14;
+NET seg7(3) LOC = N11;
+NET seg7(2) LOC = P12;
+NET seg7(1) LOC = L13;
+NET seg7(0) LOC = M12;
+NET display(3) LOC = K14;
+NET display(2) LOC = M13;
+NET display(1) LOC = J12;
+NET display(0) LOC = F12;

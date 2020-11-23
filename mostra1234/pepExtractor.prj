@@ -1,0 +1,8 @@
+work	"clock.vhd"
+work	"conversor7seg.vhd"
+work	"funcaoSepara.vhd"
+work	"mandaDisp.vhd"
+work	"meu_pacote.vhd"
+work	"mostra1234.vhd"
+work	"seletorDisplay.vhd"
+work	"seletorNum.vhd"

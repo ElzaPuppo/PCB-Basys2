@@ -1,0 +1,6 @@
+V3 3
+FL C:/.Xilinx/comparador/comparador.vhd 2018/08/29.19:05:40 P.20131013
+EN work/comparador 1535580355 FL C:/.Xilinx/comparador/comparador.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/comparador/arq_comp 1535580356 \
+      FL C:/.Xilinx/comparador/comparador.vhd EN work/comparador 1535580355

@@ -1,0 +1,29 @@
+Command line:
+   tb_pacotes1_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  54897
+
+Wed Oct 17 19:07:13 2018
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 5173.68 Meg
+
+ Total Signals          : 6
+ Total Nets             : 8
+ Total Signal Drivers   : 5
+ Total Blocks           : 6
+ Total Primitive Blocks : 4
+ Total Processes        : 5
+ Total Traceable Variables  : 13
+ Total Scalar Nets and Variables : 491
+Total Line Count : 7
+
+ Total Simulation Time: 0.046875 sec
+
+ Current Memory Usage: 5173.68 Meg
+
+Wed Oct 17 19:07:18 2018
+

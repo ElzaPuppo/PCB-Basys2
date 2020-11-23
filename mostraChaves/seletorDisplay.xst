@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/xst"
+elaborate
+-ifn seletorDisplay.prj
+-ifmt mixed

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Aluno_2/Downloads/aula_09_26/aula_09_26/multiplexador/tb_multiplexador_isim_beh.exe" -prj "C:/Users/Aluno_2/Downloads/aula_09_26/aula_09_26/multiplexador/tb_multiplexador_beh.prj" "work.tb_multiplexador" 

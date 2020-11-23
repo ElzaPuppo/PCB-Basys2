@@ -1,0 +1,8 @@
+vhdl isim_temp "seletorDisplay.vhd"
+vhdl isim_temp "multiplexador.vhd"
+vhdl isim_temp "meu_pacote.vhd"
+vhdl isim_temp "hex.vhd"
+vhdl isim_temp "demultiplexador.vhd"
+vhdl isim_temp "bcd.vhd"
+vhdl isim_temp "top.vhd"
+vhdl isim_temp "tb_pacotes3.vhd"

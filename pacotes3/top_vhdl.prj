@@ -1,0 +1,7 @@
+vhdl work "C:\.Xilinx\pacotes3\seletorDisplay.vhd"
+vhdl work "C:\.Xilinx\pacotes3\multiplexador.vhd"
+vhdl work "C:\.Xilinx\pacotes3\meu_pacote.vhd"
+vhdl work "C:\.Xilinx\pacotes3\hex.vhd"
+vhdl work "C:\.Xilinx\pacotes3\demultiplexador.vhd"
+vhdl work "C:\.Xilinx\pacotes3\bcd.vhd"
+vhdl work "C:\.Xilinx\pacotes3\top.vhd"

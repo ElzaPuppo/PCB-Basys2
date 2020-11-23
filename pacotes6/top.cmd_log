@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/.Xilinx/pacotes6/top.xst" -ofn "C:/.Xilinx/pacotes6/top.syr" 
+xst -intstyle ise -ifn "C:/.Xilinx/pacotes6/top.xst" -ofn "C:/.Xilinx/pacotes6/top.syr" 
+xst -intstyle ise -ifn "C:/.Xilinx/pacotes6/top.xst" -ofn "C:/.Xilinx/pacotes6/top.syr" 

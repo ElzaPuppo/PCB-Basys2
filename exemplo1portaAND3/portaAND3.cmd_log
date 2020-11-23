@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/logicareconfiguravel/exemplo1portaAND3/portaAND3.xst" -ofn "C:/logicareconfiguravel/exemplo1portaAND3/portaAND3.syr" 

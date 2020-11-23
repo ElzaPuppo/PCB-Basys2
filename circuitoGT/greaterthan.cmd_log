@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/logicareconfiguravel/circuitoGT/greaterthan.xst" -ofn "C:/logicareconfiguravel/circuitoGT/greaterthan.syr" 

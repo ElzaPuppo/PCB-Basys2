@@ -1,0 +1,5 @@
+PH meu_pacote NULL C:/.Xilinx/pacotes2/meu_pacote.vhd sub00/vhpl02 1539815375
+AR top arq C:/.Xilinx/pacotes2/top.vhd sub00/vhpl04 1539815379
+EN hex7seg NULL C:/.Xilinx/hex7seg/hex7seg.vhd sub00/vhpl00 1539815376
+EN top NULL C:/.Xilinx/pacotes2/top.vhd sub00/vhpl03 1539815378
+AR hex7seg arq C:/.Xilinx/hex7seg/hex7seg.vhd sub00/vhpl01 1539815377

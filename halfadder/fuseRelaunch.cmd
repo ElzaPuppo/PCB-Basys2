@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/.Xilinx/halfadder/tb_ccto_isim_beh.exe" -prj "C:/.Xilinx/halfadder/tb_ccto_beh.prj" "work.tb_ccto" 

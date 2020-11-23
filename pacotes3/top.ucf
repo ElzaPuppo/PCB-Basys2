@@ -1,0 +1,19 @@
+NET entrada(3) LOC = G3;
+NET entrada(2) LOC = B4;
+NET entrada(1) LOC = K3;
+NET entrada(0) LOC = L3;
+NET ()
+NET seg7(6) LOC = L14;
+NET seg7(5) LOC = H12;
+NET seg7(4) LOC = N14;
+NET seg7(3) LOC = N11;
+NET seg7(2) LOC = P12;
+NET seg7(1) LOC = L13;
+NET seg7(0) LOC = M12;
+NET display_enable(3) LOC = K14;
+NET display_enable(2) LOC = M13;
+NET display_enable(1) LOC = J12;
+NET display_enable(0) LOC = F12;
+NET chave(0) LOC = F3;
+NET display(1) LOC = N3;
+NET display(0) LOC = E2;

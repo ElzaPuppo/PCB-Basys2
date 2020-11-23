@@ -1,0 +1,50 @@
+V3 35
+FL C:/.Xilinx/mostra1234/clock.vhd 2018/12/02.17:37:48 P.20131013
+EN work/clock 1543872040 FL C:/.Xilinx/mostra1234/clock.vhd PB ieee/std_logic_1164 1381692176
+AR work/clock/arq 1543872041 \
+      FL C:/.Xilinx/mostra1234/clock.vhd EN work/clock 1543872040
+FL C:/.Xilinx/mostra1234/conversor7seg.vhd 2018/11/28.19:30:40 P.20131013
+EN work/conversor7seg 1543872046 FL C:/.Xilinx/mostra1234/conversor7seg.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/conversor7seg/arq 1543872047 \
+      FL C:/.Xilinx/mostra1234/conversor7seg.vhd EN work/conversor7seg 1543872046
+FL C:/.Xilinx/mostra1234/funcaoSepara.vhd 2018/11/28.19:47:32 P.20131013
+PB work/meu_pacote 1543872039 FL C:/.Xilinx/mostra1234/funcaoSepara.vhd \
+      PH work/meu_pacote 1543872038 PB ieee/NUMERIC_STD 1381692181 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+FL C:/.Xilinx/mostra1234/mandaDisp.vhd 2018/11/28.19:29:53 P.20131013
+EN work/mandaDisp 1543872048 FL C:/.Xilinx/mostra1234/mandaDisp.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/mandaDisp/arq 1543872049 \
+      FL C:/.Xilinx/mostra1234/mandaDisp.vhd EN work/mandaDisp 1543872048
+FL C:/.Xilinx/mostra1234/meu_pacote.vhd 2018/11/28.19:44:39 P.20131013
+PH work/meu_pacote 1543872038 FL C:/.Xilinx/mostra1234/meu_pacote.vhd \
+      PB ieee/std_logic_1164 1381692176 CD clock CD seletorDisplay CD seletorNum \
+      CD conversor7seg CD mandaDisp
+FL C:/.Xilinx/mostra1234/mostra1234.vhd 2018/12/03.16:52:37 P.20131013
+EN work/top 1543872050 FL C:/.Xilinx/mostra1234/mostra1234.vhd \
+      PB ieee/std_logic_1164 1381692176 PB work/meu_pacote 1543872039
+AR work/top/arq 1543872051 \
+      FL C:/.Xilinx/mostra1234/mostra1234.vhd EN work/top 1543872050 \
+      AR work/clock/arq 1543872041 AR work/seletorDisplay/arq 1543872043 \
+      AR work/seletorNum/arq 1543872045 AR work/conversor7seg/arq 1543872047 \
+      AR work/mandaDisp/arq 1543872049
+FL C:/.Xilinx/mostra1234/seletorDisplay.vhd 2018/12/02.16:30:57 P.20131013
+EN work/seletorDisplay 1543872042 FL C:/.Xilinx/mostra1234/seletorDisplay.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/seletorDisplay/arq 1543872043 \
+      FL C:/.Xilinx/mostra1234/seletorDisplay.vhd EN work/seletorDisplay 1543872042
+FL C:/.Xilinx/mostra1234/seletorNum.vhd 2018/12/03.19:20:32 P.20131013
+EN work/seletorNum 1543872044 FL C:/.Xilinx/mostra1234/seletorNum.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PB work/meu_pacote 1543872039
+AR work/seletorNum/arq 1543872045 \
+      FL C:/.Xilinx/mostra1234/seletorNum.vhd EN work/seletorNum 1543872044
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/clock.vhd 2018/12/02.17:37:48 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/conversor7seg.vhd 2018/11/28.19:30:40 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/funcaoSepara.vhd 2018/11/28.19:47:32 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/mandaDisp.vhd 2018/11/28.19:29:53 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/meu_pacote.vhd 2018/11/28.19:44:39 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/mostra1234.vhd 2018/12/03.16:52:37 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/seletorDisplay.vhd 2018/12/02.16:30:57 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/seletorNum.vhd 2018/12/03.16:52:00 P.20131013

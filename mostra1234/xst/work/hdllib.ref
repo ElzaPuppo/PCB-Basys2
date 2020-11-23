@@ -1,0 +1,14 @@
+PH meu_pacote NULL C:/.Xilinx/mostra1234/meu_pacote.vhd sub00/vhpl00 1543872038
+AR clock arq C:/.Xilinx/mostra1234/clock.vhd sub00/vhpl02 1543872041
+EN clock NULL C:/.Xilinx/mostra1234/clock.vhd sub00/vhpl01 1543872040
+AR seletornum arq C:/.Xilinx/mostra1234/seletorNum.vhd sub00/vhpl09 1543872045
+PB meu_pacote meu_pacote C:/.Xilinx/mostra1234/funcaoSepara.vhd sub00/vhpl13 1543872039
+AR top arq C:/.Xilinx/mostra1234/mostra1234.vhd sub00/vhpl12 1543872051
+EN seletornum NULL C:/.Xilinx/mostra1234/seletorNum.vhd sub00/vhpl05 1543872044
+EN seletordisplay NULL C:/.Xilinx/mostra1234/seletorDisplay.vhd sub00/vhpl04 1543872042
+EN top NULL C:/.Xilinx/mostra1234/mostra1234.vhd sub00/vhpl03 1543872050
+EN conversor7seg NULL C:/.Xilinx/mostra1234/conversor7seg.vhd sub00/vhpl10 1543872046
+EN mandadisp NULL C:/.Xilinx/mostra1234/mandaDisp.vhd sub00/vhpl07 1543872048
+AR conversor7seg arq C:/.Xilinx/mostra1234/conversor7seg.vhd sub00/vhpl11 1543872047
+AR mandadisp arq C:/.Xilinx/mostra1234/mandaDisp.vhd sub00/vhpl08 1543872049
+AR seletordisplay arq C:/.Xilinx/mostra1234/seletorDisplay.vhd sub00/vhpl06 1543872043

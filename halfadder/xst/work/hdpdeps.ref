@@ -1,0 +1,6 @@
+V3 3
+FL C:/.Xilinx/halfadder/halfadder.vhd 2018/08/29.19:46:53 P.20131013
+EN work/ccto 1535582834 FL C:/.Xilinx/halfadder/halfadder.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ccto/arq 1535582835 \
+      FL C:/.Xilinx/halfadder/halfadder.vhd EN work/ccto 1535582834

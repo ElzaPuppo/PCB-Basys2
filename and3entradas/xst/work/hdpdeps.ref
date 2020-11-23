@@ -1,0 +1,6 @@
+V3 3
+FL C:/.Xilinx/and3entradas/and3entradas.vhd 2018/08/29.20:00:02 P.20131013
+EN work/and3entradas 1535583611 FL C:/.Xilinx/and3entradas/and3entradas.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/and3entradas/arq_and 1535583612 \
+      FL C:/.Xilinx/and3entradas/and3entradas.vhd EN work/and3entradas 1535583611

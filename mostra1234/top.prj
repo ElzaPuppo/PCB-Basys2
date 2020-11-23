@@ -1,0 +1,8 @@
+vhdl work "meu_pacote.vhd"
+vhdl work "funcaoSepara.vhd"
+vhdl work "seletorNum.vhd"
+vhdl work "seletorDisplay.vhd"
+vhdl work "mandaDisp.vhd"
+vhdl work "conversor7seg.vhd"
+vhdl work "clock.vhd"
+vhdl work "mostra1234.vhd"

@@ -1,0 +1,7 @@
+work	"../../../logica 10 03/logica 10 03/multiplexador/multiplexador/multiplexador.vhd"
+work	"bcd.vhd"
+work	"demultiplexador.vhd"
+work	"hex.vhd"
+work	"meu_pacote.vhd"
+work	"seletorDisplay.vhd"
+work	"top.vhd"

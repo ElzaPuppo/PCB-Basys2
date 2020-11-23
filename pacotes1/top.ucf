@@ -1,0 +1,8 @@
+NET binario(3) LOC = G3;
+NET binario(2) LOC = B4;
+NET binario(1) LOC = K3;
+NET binario(0) LOC = L3;
+NET gray(3) LOC = N5;
+NET gray(2) LOC = P6;
+NET gray(1) LOC = P7;
+NET gray(0) LOC = M11;

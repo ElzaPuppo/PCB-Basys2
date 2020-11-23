@@ -1,0 +1,9 @@
+PH meu_pacote NULL C:/.Xilinx/pacotes4/meu_pacote.vhd sub00/vhpl00 1540404784
+AR leds arq C:/.Xilinx/pacotes4/Leds.vhd sub00/vhpl08 1540404790
+EN leds NULL C:/.Xilinx/pacotes4/Leds.vhd sub00/vhpl07 1540404789
+AR top arq C:/.Xilinx/pacotes4/top.vhd sub00/vhpl04 1540404792
+AR subtratorn arq C:/.Xilinx/pacotes4/subtratorN.vhd sub00/vhpl02 1540404786
+AR conversorhexa arq C:/.Xilinx/pacotes4/conversorHexa.vhd sub00/vhpl06 1540404788
+EN top NULL C:/.Xilinx/pacotes4/top.vhd sub00/vhpl03 1540404791
+EN subtratorn NULL C:/.Xilinx/pacotes4/subtratorN.vhd sub00/vhpl01 1540404785
+EN conversorhexa NULL C:/.Xilinx/pacotes4/conversorHexa.vhd sub00/vhpl05 1540404787

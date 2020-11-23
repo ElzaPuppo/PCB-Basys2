@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/.Xilinx/pacotes4/tb_subtrator_isim_beh.exe" -prj "C:/.Xilinx/pacotes4/tb_subtrator_beh.prj" "work.tb_subtrator" 

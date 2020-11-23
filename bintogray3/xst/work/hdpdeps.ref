@@ -1,0 +1,6 @@
+V3 3
+FL C:/logicareconfiguravel/bintogray3/bg3.vhd 2018/08/15.19:54:07 P.20131013
+EN work/bg3 1534373662 FL C:/logicareconfiguravel/bintogray3/bg3.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/bg3/arq_bg3 1534373663 \
+      FL C:/logicareconfiguravel/bintogray3/bg3.vhd EN work/bg3 1534373662

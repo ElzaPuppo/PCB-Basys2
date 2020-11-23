@@ -1,0 +1,58 @@
+V3 42
+FL C:/.Xilinx/mostraChaves/clock.vhd 2018/12/02.17:37:48 P.20131013
+EN work/clock 1543871698 FL C:/.Xilinx/mostraChaves/clock.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/clock/arq 1543871699 \
+      FL C:/.Xilinx/mostraChaves/clock.vhd EN work/clock 1543871698
+FL C:/.Xilinx/mostraChaves/conversor7seg.vhd 2018/11/28.19:30:40 P.20131013
+EN work/conversor7seg 1543871704 FL C:/.Xilinx/mostraChaves/conversor7seg.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/conversor7seg/arq 1543871705 \
+      FL C:/.Xilinx/mostraChaves/conversor7seg.vhd EN work/conversor7seg 1543871704
+FL C:/.Xilinx/mostraChaves/mandaDisp.vhd 2018/11/28.19:29:53 P.20131013
+EN work/mandaDisp 1543871706 FL C:/.Xilinx/mostraChaves/mandaDisp.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/mandaDisp/arq 1543871707 \
+      FL C:/.Xilinx/mostraChaves/mandaDisp.vhd EN work/mandaDisp 1543871706
+FL C:/.Xilinx/mostraChaves/meu_pacote.vhd 2018/12/03.18:27:59 P.20131013
+PH work/meu_pacote 1543871696 FL C:/.Xilinx/mostraChaves/meu_pacote.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179 CD clock CD seletorDisplay \
+      CD seletorNum CD conversor7seg CD mandaDisp
+PB work/meu_pacote 1543871697 \
+      FL C:/.Xilinx/mostraChaves/meu_pacote.vhd PH work/meu_pacote 1543871696
+FL C:/.Xilinx/mostraChaves/mostra1234.vhd 2018/12/03.19:14:53 P.20131013
+EN work/top 1543871708 FL C:/.Xilinx/mostraChaves/mostra1234.vhd \
+      PB ieee/std_logic_1164 1381692176 PB work/meu_pacote 1543871697
+AR work/top/arq 1543871709 \
+      FL C:/.Xilinx/mostraChaves/mostra1234.vhd EN work/top 1543871708 \
+      AR work/clock/arq 1543871699 AR work/seletorDisplay/arq 1543871701 \
+      AR work/seletorNum/arq 1543871703 AR work/conversor7seg/arq 1543871705 \
+      AR work/mandaDisp/arq 1543871707
+FL C:/.Xilinx/mostraChaves/seletorDisplay.vhd 2018/12/03.18:41:01 P.20131013
+EN work/seletorDisplay 1543871700 FL C:/.Xilinx/mostraChaves/seletorDisplay.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/seletorDisplay/arq 1543871701 \
+      FL C:/.Xilinx/mostraChaves/seletorDisplay.vhd EN work/seletorDisplay 1543871700
+FL C:/.Xilinx/mostraChaves/seletorNum.vhd 2018/12/03.18:52:47 P.20131013
+EN work/seletorNum 1543871702 FL C:/.Xilinx/mostraChaves/seletorNum.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PB work/meu_pacote 1543871697
+AR work/seletorNum/arq 1543871703 \
+      FL C:/.Xilinx/mostraChaves/seletorNum.vhd EN work/seletorNum 1543871702
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/clock.vhd 2018/12/02.17:37:48 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/conversor7seg.vhd 2018/11/28.19:30:40 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/funcaoSepara.vhd 2018/11/28.19:47:32 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/mandaDisp.vhd 2018/11/28.19:29:53 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/meu_pacote.vhd 2018/11/28.19:44:39 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/mostra1234.vhd 2018/12/03.16:52:37 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/seletorDisplay.vhd 2018/12/02.16:30:57 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostra1234/seletorNum.vhd 2018/12/03.16:52:00 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostraChaves/clock.vhd 2018/12/02.17:37:48 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostraChaves/conversor7seg.vhd 2018/11/28.19:30:40 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostraChaves/funcaoSepara.vhd 2018/11/28.19:47:32 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostraChaves/mandaDisp.vhd 2018/11/28.19:29:53 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostraChaves/meu_pacote.vhd 2018/12/03.18:27:59 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostraChaves/mostra1234.vhd 2018/12/03.18:09:23 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostraChaves/seletorDisplay.vhd 2018/12/03.18:41:01 P.20131013
+FL C:/Users/Iury/Desktop/logica1107/logica1107/mostraChaves/seletorNum.vhd 2018/12/03.18:38:37 P.20131013

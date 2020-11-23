@@ -1,0 +1,4 @@
+vhdl work "subtrator.vhd"
+vhdl work "somador.vhd"
+vhdl work "meu_pacote.vhd"
+vhdl work "top.vhd"

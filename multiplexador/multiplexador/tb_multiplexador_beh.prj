@@ -1,0 +1,2 @@
+vhdl work "multiplexador.vhd"
+vhdl work "tb_multiplexador.vhd"

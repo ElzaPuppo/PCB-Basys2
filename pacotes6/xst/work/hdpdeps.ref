@@ -1,0 +1,20 @@
+V3 13
+FL C:/.Xilinx/pacotes6/meu_pacote.vhd 2018/10/24.14:07:06 P.20131013
+PH work/meu_pacote 1540400834 FL C:/.Xilinx/pacotes6/meu_pacote.vhd \
+      PB ieee/std_logic_1164 1381692176 CD subtratorN CD somadorN
+FL C:/.Xilinx/pacotes6/somador.vhd 2018/10/22.18:47:34 P.20131013
+EN work/somadorN 1540400835 FL C:/.Xilinx/pacotes6/somador.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/somadorN/arq 1540400836 \
+      FL C:/.Xilinx/pacotes6/somador.vhd EN work/somadorN 1540400835
+FL C:/.Xilinx/pacotes6/subtrator.vhd 2018/10/22.18:23:04 P.20131013
+EN work/subtratorN 1540400837 FL C:/.Xilinx/pacotes6/subtrator.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/subtratorN/arq 1540400838 \
+      FL C:/.Xilinx/pacotes6/subtrator.vhd EN work/subtratorN 1540400837
+FL C:/.Xilinx/pacotes6/top.vhd 2018/10/24.14:05:58 P.20131013
+EN work/top 1540400839 FL C:/.Xilinx/pacotes6/top.vhd PB ieee/std_logic_1164 1381692176 \
+      PH work/meu_pacote 1540400834
+AR work/top/arq 1540400840 \
+      FL C:/.Xilinx/pacotes6/top.vhd EN work/top 1540400839 AR work/somadorN/arq 1540400836 \
+      AR work/subtratorN/arq 1540400838

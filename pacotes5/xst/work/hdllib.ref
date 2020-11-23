@@ -1,0 +1,13 @@
+PH meu_pacote NULL C:/.Xilinx/pacotes5/meu_pacote.vhd sub00/vhpl02 1540239722
+AR top arq C:/.Xilinx/pacotes5/top.vhd sub00/vhpl06 1540239726
+EN hex7seg NULL C:/.Xilinx/pacotes3/hex.vhd sub00/vhpl03 1540236999
+EN seletordisplay NULL C:/.Xilinx/pacotes3/seletorDisplay.vhd sub00/vhpl11 1540237005
+EN multiplexador NULL C:/.Xilinx/pacotes3/multiplexador.vhd sub00/vhpl07 1540237003
+EN top NULL C:/.Xilinx/pacotes5/top.vhd sub00/vhpl05 1540239725
+AR demultiplexador arq C:/.Xilinx/pacotes5/demultiplexador.vhd sub00/vhpl10 1540239724
+EN bcd NULL C:/.Xilinx/pacotes3/bcd.vhd sub00/vhpl00 1540237001
+AR multiplexador arq C:/.Xilinx/pacotes3/multiplexador.vhd sub00/vhpl08 1540237004
+AR bcd arq C:/.Xilinx/pacotes3/bcd.vhd sub00/vhpl01 1540237002
+AR seletordisplay arq C:/.Xilinx/pacotes3/seletorDisplay.vhd sub00/vhpl12 1540237006
+AR hex7seg arq C:/.Xilinx/pacotes3/hex.vhd sub00/vhpl04 1540237000
+EN demultiplexador NULL C:/.Xilinx/pacotes5/demultiplexador.vhd sub00/vhpl09 1540239723

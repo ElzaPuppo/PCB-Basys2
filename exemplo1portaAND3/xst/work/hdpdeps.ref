@@ -1,0 +1,7 @@
+V3 3
+FL C:/logicareconfiguravel/exemplo1portaAND3/AND3.vhd 2018/08/15.19:27:34 P.20131013
+EN work/portaAND3 1534372063 \
+      FL C:/logicareconfiguravel/exemplo1portaAND3/AND3.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/portaAND3/arq_and3 1534372064 \
+      FL C:/logicareconfiguravel/exemplo1portaAND3/AND3.vhd EN work/portaAND3 1534372063

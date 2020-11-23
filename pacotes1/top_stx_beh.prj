@@ -1,0 +1,3 @@
+vhdl isim_temp "meu_pacote.vhd"
+vhdl isim_temp "../bingray4bits/bingray4.vhd"
+vhdl isim_temp "top.vhd"

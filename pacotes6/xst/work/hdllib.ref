@@ -1,0 +1,7 @@
+PH meu_pacote NULL C:/.Xilinx/pacotes6/meu_pacote.vhd sub00/vhpl00 1540400834
+EN somadorn NULL C:/.Xilinx/pacotes6/somador.vhd sub00/vhpl01 1540400835
+AR top arq C:/.Xilinx/pacotes6/top.vhd sub00/vhpl06 1540400840
+AR subtratorn arq C:/.Xilinx/pacotes6/subtrator.vhd sub00/vhpl04 1540400838
+EN top NULL C:/.Xilinx/pacotes6/top.vhd sub00/vhpl05 1540400839
+AR somadorn arq C:/.Xilinx/pacotes6/somador.vhd sub00/vhpl02 1540400836
+EN subtratorn NULL C:/.Xilinx/pacotes6/subtrator.vhd sub00/vhpl03 1540400837

@@ -1,0 +1,23 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Wed Oct 24 15:13:47 2018
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "ponto<0>" LOCATE = SITE "N13" LEVEL 1;
+COMP "seg7<0>" LOCATE = SITE "M12" LEVEL 1;
+COMP "seg7<1>" LOCATE = SITE "L13" LEVEL 1;
+COMP "seg7<2>" LOCATE = SITE "P12" LEVEL 1;
+COMP "seg7<3>" LOCATE = SITE "N11" LEVEL 1;
+COMP "seg7<4>" LOCATE = SITE "N14" LEVEL 1;
+COMP "seg7<5>" LOCATE = SITE "H12" LEVEL 1;
+COMP "seg7<6>" LOCATE = SITE "L14" LEVEL 1;
+COMP "a<0>" LOCATE = SITE "L3" LEVEL 1;
+COMP "b<0>" LOCATE = SITE "P11" LEVEL 1;
+COMP "display<0>" LOCATE = SITE "F12" LEVEL 1;
+COMP "display<1>" LOCATE = SITE "J12" LEVEL 1;
+COMP "display<2>" LOCATE = SITE "M13" LEVEL 1;
+COMP "saida<0>" LOCATE = SITE "M5" LEVEL 1;
+COMP "display<3>" LOCATE = SITE "K14" LEVEL 1;
+COMP "saida<1>" LOCATE = SITE "M11" LEVEL 1;
+SCHEMATIC END;
+

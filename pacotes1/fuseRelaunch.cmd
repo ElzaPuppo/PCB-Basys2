@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/.Xilinx/pacotes1/tb_pacotes1_isim_beh.exe" -prj "C:/.Xilinx/pacotes1/tb_pacotes1_beh.prj" "work.tb_pacotes1" 

@@ -1,0 +1,5 @@
+PH meu_pacote NULL C:/.Xilinx/detector137/meu_pacote.vhd sub00/vhpl00 1543873374
+EN maquinaestados NULL C:/.Xilinx/detector137/MaquinaEstados.vhd sub00/vhpl01 1543873375
+AR top arq C:/.Xilinx/detector137/top.vhd sub00/vhpl04 1543873378
+EN top NULL C:/.Xilinx/detector137/top.vhd sub00/vhpl03 1543873377
+AR maquinaestados arq C:/.Xilinx/detector137/MaquinaEstados.vhd sub00/vhpl02 1543873376

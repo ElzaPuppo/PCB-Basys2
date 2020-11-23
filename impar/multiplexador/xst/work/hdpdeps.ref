@@ -1,0 +1,10 @@
+V3 5
+FL C:/Users/Aluno_2/Downloads/aula_09_26/aula_09_26/multiplexador/multiplexador.vhd 2018/10/03.20:01:36 P.20131013
+FL C:/Users/Aluno_2/Downloads/aula_09_26/multiplexador/multiplexador.vhd 2018/09/26.20:03:21 P.20131013
+FL C:/Users/thiag/Downloads/logica/aula_09_26/multiplexador/multiplexador.vhd 2018/10/13.22:29:31 P.20131013
+EN work/impar 1539480578 \
+      FL C:/Users/thiag/Downloads/logica/aula_09_26/multiplexador/multiplexador.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/impar/arq 1539480579 \
+      FL C:/Users/thiag/Downloads/logica/aula_09_26/multiplexador/multiplexador.vhd \
+      EN work/impar 1539480578

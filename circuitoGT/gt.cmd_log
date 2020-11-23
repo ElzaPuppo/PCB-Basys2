@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/logicareconfiguravel/circuitoGT/gt.xst" -ofn "C:/logicareconfiguravel/circuitoGT/gt.syr" 

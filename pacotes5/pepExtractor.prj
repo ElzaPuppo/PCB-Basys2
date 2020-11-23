@@ -1,0 +1,3 @@
+work	"demultiplexador.vhd"
+work	"meu_pacote.vhd"
+work	"top.vhd"

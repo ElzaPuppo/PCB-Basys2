@@ -1,0 +1,5 @@
+PH meu_pacote NULL "C:/Users/thiag/Downloads/logica 10 15/pacotes1/meu_pacote.vhd" sub00/vhpl00 1539541323
+AR top arq "C:/Users/thiag/Downloads/logica 10 15/pacotes1/top.vhd" sub00/vhpl04 1539541327
+EN top NULL "C:/Users/thiag/Downloads/logica 10 15/pacotes1/top.vhd" sub00/vhpl03 1539541326
+EN bingray4 NULL "C:/Users/thiag/Downloads/logica 10 15/bingray4bits/bingray4.vhd" sub00/vhpl01 1539541324
+AR bingray4 arq "C:/Users/thiag/Downloads/logica 10 15/bingray4bits/bingray4.vhd" sub00/vhpl02 1539541325

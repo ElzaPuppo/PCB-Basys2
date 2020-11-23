@@ -1,0 +1,4 @@
+vhdl isim_temp "meu_pacote.vhd"
+vhdl isim_temp "../hex7seg/hex7seg.vhd"
+vhdl isim_temp "top.vhd"
+vhdl isim_temp "tb_pacotes2.vhd"

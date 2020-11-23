@@ -1,0 +1,6 @@
+vhdl work "subtrator.vhd"
+vhdl work "somador.vhd"
+vhdl work "multiplexador.vhd"
+vhdl work "meu_pacote.vhd"
+vhdl work "decodbcd.vhd"
+vhdl work "top.vhd"

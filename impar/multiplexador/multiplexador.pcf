@@ -1,0 +1,19 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Wed Oct 03 19:30:02 2018
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "saida" LOCATE = SITE "M5" LEVEL 1;
+COMP "entrada<0>" LOCATE = SITE "P11" LEVEL 1;
+COMP "entrada<1>" LOCATE = SITE "L3" LEVEL 1;
+COMP "entrada<2>" LOCATE = SITE "K3" LEVEL 1;
+COMP "entrada<3>" LOCATE = SITE "B4" LEVEL 1;
+COMP "entrada<4>" LOCATE = SITE "G3" LEVEL 1;
+COMP "entrada<5>" LOCATE = SITE "F3" LEVEL 1;
+COMP "entrada<6>" LOCATE = SITE "E2" LEVEL 1;
+COMP "entrada<7>" LOCATE = SITE "N3" LEVEL 1;
+COMP "controle<0>" LOCATE = SITE "G12" LEVEL 1;
+COMP "controle<1>" LOCATE = SITE "C11" LEVEL 1;
+COMP "controle<2>" LOCATE = SITE "M4" LEVEL 1;
+SCHEMATIC END;
+

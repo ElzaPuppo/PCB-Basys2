@@ -1,0 +1,7 @@
+NET x(0) LOC = P11;
+NET x(1) LOC = L3;
+NET x(2) LOC= M5;
+NET y(0) LOC = M11;
+NET y(1) LOC = P7;
+NET y(2) LOC =  
+

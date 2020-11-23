@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Iury\Desktop\logica 10 15\logica 10 15\pacotes1\top.ncd
+OUTFILE=C:\Users\Iury\Desktop\logica 10 15\logica 10 15\pacotes1\top.bit
+FAMILY=Spartan3E
+PART=xc3s100e-4cp132
+WORKINGDIR=C:\Users\Iury\Desktop\logica 10 15\logica 10 15\pacotes1
+LICENSE=WebPack
+USER_INFO=179504511_180332158_0_034

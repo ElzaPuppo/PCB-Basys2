@@ -1,0 +1,6 @@
+V3 3
+FL C:/logicareconfiguravel/circuitoGT/gt.vhd 2018/08/15.19:51:16 P.20131013
+EN work/greaterthan 1534373481 FL C:/logicareconfiguravel/circuitoGT/gt.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/greaterthan/arqgt 1534373482 \
+      FL C:/logicareconfiguravel/circuitoGT/gt.vhd EN work/greaterthan 1534373481

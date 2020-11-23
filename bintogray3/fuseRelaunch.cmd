@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Aluno_2/Downloads/logicareconfiguravel/bintogray3/tb_bg3_isim_beh.exe" -prj "C:/Users/Aluno_2/Downloads/logicareconfiguravel/bintogray3/tb_bg3_beh.prj" "work.tb_bg3" 

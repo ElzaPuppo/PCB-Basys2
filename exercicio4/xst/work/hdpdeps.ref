@@ -1,0 +1,8 @@
+V3 3
+FL C:/Users/El/Desktop/logicareconfiguravel/exercicio4/exercicio4.vhd 2018/09/12.19:52:57 P.20131013
+EN work/subtrator 1536792781 \
+      FL C:/Users/El/Desktop/logicareconfiguravel/exercicio4/exercicio4.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/subtrator/arqs 1536792782 \
+      FL C:/Users/El/Desktop/logicareconfiguravel/exercicio4/exercicio4.vhd \
+      EN work/subtrator 1536792781

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/.Xilinx/halfadder/ccto.xst" -ofn "C:/.Xilinx/halfadder/ccto.syr" 

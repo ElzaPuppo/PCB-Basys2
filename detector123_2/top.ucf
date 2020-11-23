@@ -1,0 +1,8 @@
+NET mclk LOC = B8;
+NET reset LOC = A7;
+NET vetor(0) LOC = G12;
+NET vetor(1) LOC = C11; 
+NET LEDS(0) LOC = M5;
+NET LEDS(1) LOC = M11;
+NET LEDS(2) LOC = P7;
+NET LEDS(3) LOC = P6;

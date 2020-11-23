@@ -1,0 +1,3 @@
+vhdl work "meu_pacote.vhd"
+vhdl work "demultiplexador.vhd"
+vhdl work "top.vhd"

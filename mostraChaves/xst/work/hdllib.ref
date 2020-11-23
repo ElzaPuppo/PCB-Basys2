@@ -1,0 +1,14 @@
+PH meu_pacote NULL C:/.Xilinx/mostraChaves/meu_pacote.vhd sub00/vhpl00 1543871696
+AR clock arq C:/.Xilinx/mostraChaves/clock.vhd sub00/vhpl02 1543871699
+EN clock NULL C:/.Xilinx/mostraChaves/clock.vhd sub00/vhpl01 1543871698
+AR seletornum arq C:/.Xilinx/mostraChaves/seletorNum.vhd sub00/vhpl09 1543871703
+PB meu_pacote meu_pacote C:/.Xilinx/mostraChaves/meu_pacote.vhd sub00/vhpl13 1543871697
+AR top arq C:/.Xilinx/mostraChaves/mostra1234.vhd sub00/vhpl12 1543871709
+EN seletornum NULL C:/.Xilinx/mostraChaves/seletorNum.vhd sub00/vhpl05 1543871702
+EN seletordisplay NULL C:/.Xilinx/mostraChaves/seletorDisplay.vhd sub00/vhpl04 1543871700
+EN top NULL C:/.Xilinx/mostraChaves/mostra1234.vhd sub00/vhpl03 1543871708
+EN conversor7seg NULL C:/.Xilinx/mostraChaves/conversor7seg.vhd sub00/vhpl10 1543871704
+EN mandadisp NULL C:/.Xilinx/mostraChaves/mandaDisp.vhd sub00/vhpl07 1543871706
+AR conversor7seg arq C:/.Xilinx/mostraChaves/conversor7seg.vhd sub00/vhpl11 1543871705
+AR mandadisp arq C:/.Xilinx/mostraChaves/mandaDisp.vhd sub00/vhpl08 1543871707
+AR seletordisplay arq C:/.Xilinx/mostraChaves/seletorDisplay.vhd sub00/vhpl06 1543871701

@@ -1,0 +1,20 @@
+V3 15
+FL C:/.Xilinx/hex7seg/hex7seg.vhd 2018/10/17.16:33:20 P.20131013
+EN work/hex7seg 1539815376 FL C:/.Xilinx/hex7seg/hex7seg.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/hex7seg/arq 1539815377 \
+      FL C:/.Xilinx/hex7seg/hex7seg.vhd EN work/hex7seg 1539815376
+FL C:/.Xilinx/pacotes2/meu_pacote.vhd 2018/10/14.15:44:52 P.20131013
+PH work/meu_pacote 1539815375 FL C:/.Xilinx/pacotes2/meu_pacote.vhd \
+      PB ieee/std_logic_1164 1381692176 CD hex7seg
+FL C:/.Xilinx/pacotes2/top.vhd 2018/10/14.15:55:48 P.20131013
+EN work/top 1539815378 FL C:/.Xilinx/pacotes2/top.vhd PB ieee/std_logic_1164 1381692176 \
+      PH work/meu_pacote 1539815375
+AR work/top/arq 1539815379 \
+      FL C:/.Xilinx/pacotes2/top.vhd EN work/top 1539815378 AR work/hex7seg/arq 1539815377
+FL "C:/Users/Iury/Desktop/logica 10 15/logica 10 15/hex7seg/hex7seg.vhd" 2018/10/17.16:33:20 P.20131013
+FL "C:/Users/Iury/Desktop/logica 10 15/logica 10 15/pacotes2/meu_pacote.vhd" 2018/10/14.15:44:52 P.20131013
+FL "C:/Users/Iury/Desktop/logica 10 15/logica 10 15/pacotes2/top.vhd" 2018/10/14.15:55:48 P.20131013
+FL "C:/Users/thiag/Downloads/logica 10 15/hex7seg/hex7seg.vhd" 2018/10/14.15:53:38 P.20131013
+FL "C:/Users/thiag/Downloads/logica 10 15/pacotes2/meu_pacote.vhd" 2018/10/14.15:44:52 P.20131013
+FL "C:/Users/thiag/Downloads/logica 10 15/pacotes2/top.vhd" 2018/10/14.15:55:48 P.20131013

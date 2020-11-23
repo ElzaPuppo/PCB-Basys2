@@ -1,0 +1,6 @@
+V3 3
+FL C:/logicareconfiguravel/exemplo2/exemplo2.vhd 2018/08/15.19:39:59 P.20131013
+EN work/exemplo2 1534372802 FL C:/logicareconfiguravel/exemplo2/exemplo2.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/exemplo2/Behavioral 1534372803 \
+      FL C:/logicareconfiguravel/exemplo2/exemplo2.vhd EN work/exemplo2 1534372802

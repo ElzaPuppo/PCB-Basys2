@@ -1,0 +1,7 @@
+vhdl work "seletorDisplay.vhd"
+vhdl work "multiplexador.vhd"
+vhdl work "meu_pacote.vhd"
+vhdl work "hex.vhd"
+vhdl work "demultiplexador.vhd"
+vhdl work "bcd.vhd"
+vhdl work "top.vhd"

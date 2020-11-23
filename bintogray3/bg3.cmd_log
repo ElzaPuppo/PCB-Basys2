@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/logicareconfiguravel/bintogray3/bg3.xst" -ofn "C:/logicareconfiguravel/bintogray3/bg3.syr" 
+xst -intstyle ise -ifn "C:/logicareconfiguravel/bintogray3/bg3.xst" -ofn "C:/logicareconfiguravel/bintogray3/bg3.syr" 
